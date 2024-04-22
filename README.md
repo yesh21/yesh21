@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yesh21
-- 👀 I’m interested in AI stuff.
+- 👀 Interested in AI stuff
 - 🌱 I’m a constant learner
-- 💞️ I’m looking to collaborate with others on interesting ideas. 
+- 💞️ Looking to collaborate with others on interesting ideas
 - 📫 Reach me at my LinkedIn page
 - Fun fact: Java ```.class``` format starts with 0xCAFEBABE
 
